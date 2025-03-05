@@ -5,6 +5,7 @@ A structured collection of essential frontend development concepts to help prepa
 ### 🖌 CSS
 - [SVG Sprites](./css/svg-sprites.md)
 - [@font-face](./css/font-face.md)
+- [box-sizing](./css/box-sizing.md)
 
 ### 🅷 HTML
 

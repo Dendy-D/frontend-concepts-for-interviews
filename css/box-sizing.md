@@ -27,3 +27,19 @@ The `box-sizing` property controls how the width and height of an element are ca
   border: 5px solid black;
   box-sizing: border-box; /* Includes padding and border in width/height */
 }
+```
+
+## Why Use border-box?
+  - Predictable Layouts: Ensures elements stay the specified size, even with padding or borders.
+  - Easier Calculations: No need to adjust width/height manually when adding padding or borders.
+
+
+
+## Best Practice
+  Set box-sizing: border-box globally for consistent sizing:
+
+  ```css
+  * {
+    box-sizing: border-box;
+  }
+  ```

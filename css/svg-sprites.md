@@ -2,7 +2,7 @@
 
 SVG sprites are a technique for combining multiple SVG icons into a single file, making it easier to manage and use them in web projects. They improve performance by reducing HTTP requests and allow for easy styling and manipulation of icons.
 
-SVG sprites and embedded SVGs each have their use cases. Here's a quick comparison:
+## SVG sprites and embedded SVGs each have their use cases. Here's a quick comparison:
 
 ### SVG Sprites:
 - **Pros**:
@@ -59,6 +59,7 @@ SVG sprites and embedded SVGs each have their use cases. Here's a quick comparis
   </svg>
   ```
 
+---
 
 ## Using `currentColor` with SVG Sprites
 
