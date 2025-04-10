@@ -1,4 +1,4 @@
-# Critical Rendering Path (CRP) Cheatsheet
+# Browser Critical Rendering Path (CRP) 📜
 
 ## The 5-Step Process
 

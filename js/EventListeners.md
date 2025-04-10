@@ -1,4 +1,4 @@
-# JavaScript Event Listeners & Event Delegation Cheat Sheet
+# JavaScript Event Listeners & Event Delegation 📌
 
 ## Different Ways to Attach Event Listeners
 1. **addEventListener** (Recommended)
