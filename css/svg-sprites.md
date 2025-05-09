@@ -1,4 +1,4 @@
-# SVG Sprites
+# SVG Sprites 🖌️
 
 SVG sprites are a technique for combining multiple SVG icons into a single file, making it easier to manage and use them in web projects. They improve performance by reducing HTTP requests and allow for easy styling and manipulation of icons.
 

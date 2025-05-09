@@ -1,4 +1,4 @@
-# CSS `box-sizing` Property
+# CSS `box-sizing` Property 🖌️
 
 The `box-sizing` property controls how the width and height of an element are calculated, including padding and borders.
 

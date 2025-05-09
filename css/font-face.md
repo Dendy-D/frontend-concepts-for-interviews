@@ -1,4 +1,4 @@
-# CSS `@font-face` and Font Formats
+# CSS `@font-face` and Font Formats 🖌️
 
 The `@font-face` rule allows you to use custom fonts in your web projects, ensuring consistent typography across devices.
 
